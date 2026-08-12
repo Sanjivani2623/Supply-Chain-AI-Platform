@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/*.db
+data/synthetic_*.csv
+app/ml/classification/artifacts/*.joblib
+app/ml/risk/artifacts/*.joblib
+.pytest_cache/
